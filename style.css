@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu{
+ 
+    background-color: #2B373D;
+    color: #fff;
+    cursor: pointer;
+}
+
+.header{
+    border: 20px solid;
+}
+
+.home{
+    cursor: pointer;
+}
+
+.global{
+    cursor: pointer;
+}
+
+.man{
+    cursor: pointer;
+}
+
+.message{
+    cursor: pointer;
+}
+
+.bell{
+    cursor: pointer;
+}
+
+/* ========= my profile ============ */
+.box1{
+        position: absolute;
+        top: 80px;
+        height: 250px;
+        width: 300px;
+        border: 1px solid green;
+        padding: 50px;
+        margin: 20px;
+        box-shadow: 5px gray;
+}
+
+.my{
+    position: absolute;
+    top: 4%;
+    text-align: center;
+}
+
+.profile{
+    position: absolute;
+    top: 20%;
+}
+
+.pen_text{
+    position: absolute;
+    bottom: 10px;
+
+}
+
+.pen2{
+    position: absolute;
+    top: 40%;
+}
+
+.profile{
+    size: 20px;
+}
+
+.london{
+    position: absolute;
+    top: 50%;
+}
+
+.cake{
+    position: absolute;
+    top: 60%;
+}
+
+
+.box2{
+    position: absolute;
+    top: 55%;
+    height: 150px;
+    width: 300px;
+    border: 1px solid green;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 5px gray;
+    background-color: #7D97A5;
+}
+
+.box3{
+    position: absolute;
+    top: 80%;
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 5px gray;
+}
+
+.int{
+    position: absolute;
+    top: 3%;
+}
+
+.int1{
+    position: absolute;
+    background-color: #344147;
+    color: #fff;
+    display: inline-block;
+}
+
+.box3{
+    position: absolute;
+    display: inline-block;
+}
